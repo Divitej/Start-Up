@@ -1,0 +1,126 @@
+.bg{
+    background-image: url('images/1.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.butn1{
+    border: 1px solid #0BF50F;
+    color: #fff;
+}
+.butn1:hover{
+    background-color: black;
+    color: #fff;
+    border: 1px solid #fff
+}
+.main-head{
+    font-family: Roboto;
+}
+.main-head1{
+    color: red
+}
+
+/* Team Page */
+
+.team-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.team-card {
+    border-radius: 16px;
+}
+.team-card-image{
+    border-radius: 16px;
+}
+.team-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 24px;
+    text-align: center;
+}
+.team-view-butn{
+     height: 37px;
+     width: 100px;
+     border: 1px solid DodgerBlue;
+     background-color: DodgerBlue;
+     color: #fff;
+     border-radius: 8px;
+}
+.team-view-butn:hover{
+    border: 1px solid DodgerBlue;
+    background-color: transparent;
+    color: #000;
+}
+.team-contact-butn{
+     height: 37px;
+     width: 100px;
+     border: 1px solid DodgerBlue;
+     background-color: transparent;
+     color: #000;
+     border-radius: 8px;
+}
+.team-contact-butn:hover{
+    border: 1px solid DodgerBlue;
+    background-color: dodgerblue;
+    color: #fff;
+}
+
+/*Work Section */
+.work-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.work-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.work-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.work-card-image {
+    height: 200px;
+}
+.work-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.work-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.work-card-link {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  /* Contact */
+.heading-section {
+    font-size: 28px;
+    color: #000;
+}
+.contact-img{
+    background-image: url('images/img.jpg');
+    height: 100%;
+    background-size: cover;
+    vertical-align: middle;
+    border-style: none;
+}
+.form-group {
+    margin-bottom: 1rem; 
+}
